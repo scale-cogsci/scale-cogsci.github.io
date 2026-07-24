@@ -10,12 +10,13 @@ title: Home
 The bitter lesson for cognitive science
 {: .hero-eyebrow }
 
-> “You can’t play 20 questions with Nature and win.”
->
-> — Allen Newell
+“You can’t play 20 questions with Nature and win.”
+
+— Allen Newell
 {: .hero-quote }
 
-## So let's stop asking one question at a time.
+So let's stop asking one question at a time.
+{: .hero-lead }
 
 Scaling cognitive science through integrative experiments, richer data, and automated discovery.
 {: .hero-tagline }

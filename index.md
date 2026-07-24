@@ -83,4 +83,9 @@ Follow us for the latest updates on our research.
 
 </div>
 
+<p class="org-links">
+  <a href="https://github.com/scale-cogsci" class="social-pill">GitHub</a>
+  <a href="https://huggingface.co/psyche-org" class="social-pill">Hugging Face</a>
+</p>
+
 </div>

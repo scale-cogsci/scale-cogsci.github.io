@@ -7,6 +7,10 @@
   display: none;
 }
 
+.site-footer {
+  display: none;
+}
+
 .main-content {
   padding-top: 2rem;
 }
@@ -119,4 +123,9 @@
 .social-pill:hover {
   background: #eef1f4;
   text-decoration: none;
+}
+
+.org-links {
+  margin: 1.5rem 0 0;
+  text-align: center;
 }

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Home
+title: Scale CogSci
 ---
 
-![Scale CogSci](images/logo.png){: .site-logo }
-
 <div class="hero" markdown="1">
+
+![Scale CogSci](images/logo.png){: .site-logo }
 
 The bitter lesson for cognitive science
 {: .hero-eyebrow }
@@ -18,7 +18,7 @@ The bitter lesson for cognitive science
 So let's stop asking one question at a time.
 {: .hero-lead }
 
-Scaling cognitive science through integrative experiments, richer data, and automated discovery.
+Scaling cognitive science through richer data and automated discovery.
 {: .hero-tagline }
 
 </div>
@@ -31,7 +31,7 @@ Coming soon...
 
 ## Stay in the loop
 
-Follow us for the latest updates on **Psyche**, **AutoCog**, and our research.
+Follow us for the latest updates on our research.
 {: .social-lead }
 
 <div class="social-card" markdown="1">

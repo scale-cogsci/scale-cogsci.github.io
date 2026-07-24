@@ -3,10 +3,24 @@ layout: default
 title: Home
 ---
 
-![Logo](images/logo.png)
+![Scale CogSci](images/logo.png){: .site-logo }
 
+<div class="hero" markdown="1">
 
+The bitter lesson for cognitive science
+{: .hero-eyebrow }
 
+> “You can’t play 20 questions with Nature and win.”
+>
+> — Allen Newell
+{: .hero-quote }
+
+## So let's stop asking one question at a time.
+
+Scaling cognitive science through integrative experiments, richer data, and automated discovery.
+{: .hero-tagline }
+
+</div>
 
 ## Psyche
 
@@ -14,25 +28,31 @@ title: Home
 
 Coming soon...
 
-### Follow us on Social media:
+## Stay in the loop
 
-<p align="center">
-  <span style="display: inline-block; margin: 0 1.5rem; text-align: center; vertical-align: top;">
-    <img src="images/profiles/ystrittm.jpg" alt="Younes Strittmatter" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
-    <br>
-    <strong>Younes Strittmatter</strong>
-    <br>
-    <a href="https://x.com/strittmatteryo">@strittmatteryo</a>
-    ·
-    <a href="https://bsky.app/profile/younesstrittmatter.bsky.social">@younesstrittmatter.bsky.social</a>
-  </span>
-  <span style="display: inline-block; margin: 0 1.5rem; text-align: center; vertical-align: top;">
-    <img src="images/profiles/ajagadhish.jpg" alt="Akshay Jagadish" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
-    <br>
-    <strong>Akshay Jagadish</strong>
-    <br>
-    <a href="https://x.com/akjagadish">@akjagadish</a>
-    ·
-    <a href="https://bsky.app/profile/akjagadish.bsky.social">@akjagadish.bsky.social</a>
-  </span>
-</p>
+Follow us for the latest updates on **Psyche**, **AutoCog**, and our research.
+{: .social-lead }
+
+<div class="social-card" markdown="1">
+
+<div class="profile" markdown="1">
+
+![Younes Strittmatter](images/profiles/ystrittm.jpg){: .profile-photo }
+
+**Younes Strittmatter**
+
+[X](https://x.com/strittmatteryo){: .social-pill } [Bluesky](https://bsky.app/profile/younesstrittmatter.bsky.social){: .social-pill }
+
+</div>
+
+<div class="profile" markdown="1">
+
+![Akshay Jagadish](images/profiles/ajagadhish.jpg){: .profile-photo }
+
+**Akshay Jagadish**
+
+[X](https://x.com/akjagadish){: .social-pill } [Bluesky](https://bsky.app/profile/akjagadish.bsky.social){: .social-pill }
+
+</div>
+
+</div>

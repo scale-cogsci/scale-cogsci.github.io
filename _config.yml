@@ -1,2 +1,6 @@
 title: Scale CogSci
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
+external_links_new_tab: true
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
